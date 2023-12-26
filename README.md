@@ -20,6 +20,7 @@ The idea behind this repository is to prepare a list of content you'd want to ha
 ## Skills
 - [Knots book](https://www.gswo.org/content/dam/gswo-redesign/documents/Annual%20Documents/Program/traditions/Knots%20Book.pdf)
 - [Knotting for scouts](http://www.thedump.scoutscan.com/knotbook.pdf)
+- [Basic electronics course](https://archive.org/details/milmanual-t-2819070-military-basics-electronics-course/page/n9/mode/2up)
 
 ## Medicine
 - [Survival and austere medicine](http://www.survivorlibrary.com/library/survival-medicine.pdf)
@@ -32,3 +33,16 @@ The idea behind this repository is to prepare a list of content you'd want to ha
 - [Preparedness Manual](https://www.trueprepper.com/wp-content/uploads/2022/12/LDS-Preparedness-Manual.pdf)
 - [Shelters, Shacks and Shanties](https://www.trueprepper.com/wp-content/uploads/2022/12/Shelters-Shacks-and-Shanties.pdf)
 - [Ultimate survival skills](https://survivallife.com/Ultimate-Survival-Skills-Guide.pdf)
+
+## Navigation
+[Open street map backup](https://wiki.openstreetmap.org/wiki/Planet.osm)
+
+## Media
+[Gutenberg backup](https://www.gutenberg.org/robot/harvest?filetypes[]=txt&langs[]=en)
+
+## Wikipedia
+[wikipedia backup download](https://dumps.wikimedia.org/)
+
+
+
+  
