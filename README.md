@@ -1,4 +1,5 @@
-The idea behind this repository is to prepare a list of content you'd want to have stored locally when SHTF
+The idea behind this repository is to prepare a list of content you'd want to have stored locally when SHTF. 
+[Ideas.md](./Ideas) is a list that i'm slowly building of what would be great to have and will eventually be added to the readme with links. PRs welcome.
 
 ## Carpentry
 - [Marine corps carpentry manual](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN35831-TM_3-34.47-000-WEB-1.pdf)
