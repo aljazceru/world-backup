@@ -35,7 +35,8 @@ The idea behind this repository is to prepare a list of content you'd want to ha
 - [Ultimate survival skills](https://survivallife.com/Ultimate-Survival-Skills-Guide.pdf)
 
 ## Navigation
-[Open street map backup](https://wiki.openstreetmap.org/wiki/Planet.osm)
+- [Open street map backup](https://wiki.openstreetmap.org/wiki/Planet.osm)
+- [OSM software](https://wiki.openstreetmap.org/wiki/Software/Desktop)
 
 ## Media
 [Gutenberg backup](https://www.gutenberg.org/robot/harvest?filetypes[]=txt&langs[]=en)
