@@ -3,8 +3,9 @@ The idea behind this repository is to prepare a list of content you'd want to ha
 
 ### Electric
 - [Electronics tshoot and repair handbook](https://pdfroom.com/books/electronic-troubleshooting-and-repair-handbook-tab-electronics-technician-library/E1d4DWeydOb/download)
-- 
 
+### Energy
+- [The microhydro plant](https://ludens.cl/paradise/turbine/turbine.html)
 
 ### Carpentry
 - [Marine corps carpentry manual](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN35831-TM_3-34.47-000-WEB-1.pdf)
@@ -45,11 +46,11 @@ The idea behind this repository is to prepare a list of content you'd want to ha
 - [OSM software](https://wiki.openstreetmap.org/wiki/Software/Desktop)
 
 ## Media
-[Gutenberg backup](https://www.gutenberg.org/robot/harvest?filetypes[]=txt&langs[]=en)
+- [Gutenberg backup](https://www.gutenberg.org/robot/harvest?filetypes[]=txt&langs[]=en)
 
 ## Wikipedia
-[wikipedia backup download](https://dumps.wikimedia.org/)
-[kiwix wikipedia books](https://library.kiwix.org/#lang=eng&category=wikipedia)
+- [wikipedia backup download](https://dumps.wikimedia.org/)
+- [kiwix wikipedia books](https://library.kiwix.org/#lang=eng&category=wikipedia)
 
 
   
