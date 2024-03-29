@@ -1,6 +1,9 @@
 The idea behind this repository is to prepare a list of content you'd want to have stored locally when SHTF. 
 [Ideas](./IDEAS.md) is a list that i'm slowly building of what would be great to have and will eventually be added to the readme with links. PRs welcome.
 
+### Survivor Library
+- [Surivor library.com](https://www.survivorlibrary.com/f)
+
 ### Electric
 - [Electronics tshoot and repair handbook](https://pdfroom.com/books/electronic-troubleshooting-and-repair-handbook-tab-electronics-technician-library/E1d4DWeydOb/download)
 
