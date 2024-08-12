@@ -47,6 +47,7 @@ The idea behind this repository is to prepare a list of content you'd want to ha
 ## Navigation
 - [Open street map backup](https://wiki.openstreetmap.org/wiki/Planet.osm)
 - [OSM software](https://wiki.openstreetmap.org/wiki/Software/Desktop)
+- [Self host OSM](https://gist.github.com/markuman/230af4cc11333ca3efc22eed60575adc)
 
 ## Media
 - [Gutenberg backup](https://www.gutenberg.org/robot/harvest?filetypes[]=txt&langs[]=en)
